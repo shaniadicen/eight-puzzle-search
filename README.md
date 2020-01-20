@@ -2,7 +2,7 @@
 A java program that solves the Eight Puzzle problem using five different search algorithms.
 
 ## Problem
-The 8 puzzle consists of eight numbered, movable tiles set in a 3x3 frame. One cell of the frame is always empty thus making it possible to move an adjacent numbered tile into the empty cell. Such a puzzle is illustrated in following diagram.
+The 8 puzzle consists of eight numbered, movable tiles set in a 3x3 frame. One cell of the frame is always empty thus making it possible to move an adjacent numbered tile into the empty cell. The following shows a sequence of legal moves from an initial board (left) to the goal board.
 
 
 
