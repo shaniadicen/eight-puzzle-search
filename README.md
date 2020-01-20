@@ -11,7 +11,9 @@ The goal is to change the initial configuration into the goal configuration.
 ## System Design
 
 ## Resources
-
+[8 Puzzle Java](https://www.cs.princeton.edu/courses/archive/fall15/cos226/assignments/8puzzle.html)
+[8 Puzzle A* Search](https://blog.goodaudience.com/solving-8-puzzle-using-a-algorithm-7b509c331288)
+[8 Puzzle](https://www.d.umn.edu/~jrichar4/8puz.html)
 ## Support
 For any questions or concerns, please email [shaniaddev@gmail.com](mailto:shaniaddev@gmail.com?subject=[GitHub]%20Eight%20Puzzle%20Search)
 
