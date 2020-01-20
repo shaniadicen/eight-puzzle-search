@@ -10,6 +10,12 @@ The goal is to change the initial configuration into the goal configuration.
 
 ## System Design
 
+### Changes
+- [ ] Add Blind Search
+- [ ] Fix code structure
+- [ ] Add in package
+- [ ] Code cleanup
+
 ## Resources
 [8 Puzzle Java](https://www.cs.princeton.edu/courses/archive/fall15/cos226/assignments/8puzzle.html)\
 [8 Puzzle A* Search](https://blog.goodaudience.com/solving-8-puzzle-using-a-algorithm-7b509c331288)\
