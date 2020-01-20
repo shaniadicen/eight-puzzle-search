@@ -10,7 +10,7 @@ The goal is to change the initial configuration into the goal configuration.
 
 ## System Design
 
-### Changes
+### Pipeline Tasks
 - [ ] Add Blind Search
 - [ ] Fix code structure
 - [ ] Add in package
